@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 GIT tracks changes of files.
 Creating a new branch is quick &&simple.
 fwl has change something.
+try stash.
